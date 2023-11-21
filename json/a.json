@@ -1,0 +1,6 @@
+{
+    "Nhóm đo": {"1": "Hà Nội", "2": "Đà Nẵng", "3": "Sài Gòn"}, 
+    "Chỉ tiêu đo": {"1": "Ure", "2": "Histamine", "3": "Hàn the", "4": "Acid domoic", "5": "Chỉ số K", "6": "TBA", "7": "TVB-N", "8": "Tổng VSV"}, 
+    "Loại cá": {"1": "Nục 1", "2": "Nục 2", "3": "Ngừ 1", "4": "Ngừ 2", "5": "Thu 1", "6": "Thu 2"}, 
+    "Địa điểm lấy": {"1": "Chợ", "2": "Siêu thị", "3": "Cảng cá"}, 
+    "Vị trí đo": {"a": "Ngoài da, gáy", "b": "Ngoài da, lưng", "c": "Ngoài da, đuôi", "d": "Ngoài da, bụng", "e": "Mang 1", "f": "Mang 2", "g": "Mắt 1", "h": "Mắt 2", "i": "Trong thịt, gáy", "j": "Trong thịt, lưng", "k": "Trong thịt, đuôi", "l": "Trong thịt, bụng"}}

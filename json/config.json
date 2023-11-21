@@ -1,0 +1,55 @@
+{
+    "folderLink": "Data4res",
+    "afterfixInputFileName": "_Fish data_valid.xlsx",
+    "afterfixInputFolderName": "_NIRS data",
+    "afterfixOutputFileName": "_NIRS-Fish data.xlsx",
+    "nirsMetadataCodingFileName": "NIRS metadata coding.json",
+    "nirsIdComponents": [
+        {
+            "name": "Nhóm đo",
+            "length": 1
+        },
+        {
+            "name": "Chỉ tiêu đo",
+            "length": 1
+        },
+        {
+            "name": "Loại cá",
+            "length": 1
+        },
+        {
+            "name": "Địa điểm lấy mẫu",
+            "length": 1
+        },
+        {
+            "name": "STT mẫu cá",
+            "length": 3
+        },
+        {
+            "name": "Vị trí đo",
+            "length": 1
+        },        {
+            "name": "Lần lặp",
+            "length": 1
+        }
+    ],
+    "outputFileGeneralHeaders": [
+        "Mã mẫu NIRS",
+        "Nhóm đo",
+        "Chỉ tiêu đo"  ,
+        "Loại cá",
+        "Địa điểm lấy mẫu",
+        "STT mẫu cá",
+        "Vị trí đo",
+        "Lần lặp",
+        "Phương pháp đo",
+        "Ngày đo",
+        "Giờ đo",
+        "Mã thiết bị đo"
+    ],
+    "stringTypeHeaders": [
+        "Mã mẫu NIRS",
+        "Mã thiết bị đo",
+        "Mã mẫu cá"
+    ]
+}
